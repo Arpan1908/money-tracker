@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #17181f;
+    color: #ddd;
+}
+main{
+    max-width: 360px;
+    margin: 30px auto;
+}
+form input{
+    width: 100%;
+    background: transparent;
+    
+}
+.transaction{
+    padding:5px 0;
+    border-top:1px solid
+}
+.basic{
+    display: flex;
+    background: transparent;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+.description{
+    gap: 5px;
+    margin-bottom: 5px;
+}
+
+
+.datetime{
+    font-size: 0.7rem;
+    color:#888
+}
